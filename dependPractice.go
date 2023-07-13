@@ -1,4 +1,4 @@
-package dependPrac
+package dependPractice
 
 func Practice() string {
 	return "Nice!"
